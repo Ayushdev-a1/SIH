@@ -1,9 +1,7 @@
-# SIH
-This repository for smart India hackathon . 
 Virtual Workout Training Application
 
 Overview
-This project is a web and mobile application designed for virtual workout training. The application offers AI-powered real-time feedback on exercise form and technique, a streak-based achievement system, and a vibrant community section where users can share their progress and interact with others.
+This project is a web and mobile application designed for virtual workout training. It provides AI-powered real-time feedback on exercise form and technique, a streak-based achievement system, and a community section where users can share their progress and interact with others.
 
 Features
 User Accounts: Create and manage accounts.
@@ -12,11 +10,7 @@ AI-Powered Feedback: Real-time feedback on exercise form using AI.
 Achievement System: Tracks workout streaks and other milestones.
 Community Section: Share workout streaks and health details, interact with other users.
 Technologies Used
-Frontend: React, Redux, HTML, CSS
-Backend: Node.js, Express.js, MongoDB
-AI Model: TensorFlow.js (for workout correction)
-Real-time Communication: Socket.io
-Mobile Compatibility: React Native
+<p align="center"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow.js" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="60" height="60"/> </p>
 Installation
 Clone the repository:
 
