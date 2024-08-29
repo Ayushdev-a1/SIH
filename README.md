@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/virtual-workout-app.git
+git clone gh repo clone Ayushdev-a1/SIH
 Navigate to the project directory:
 
 bash
