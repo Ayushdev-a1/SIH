@@ -40,8 +40,8 @@ Python: Required for running the AI model. Install Python from python.org.
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/ai-personal-trainer.git
-cd ai-personal-trainer
+git clone <a>https://github.com/Ayushdev-a1/SIH.git</a>
+cd Model
 Frontend Setup
 Navigate to the frontend directory and install the required packages:
 
