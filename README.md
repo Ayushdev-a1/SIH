@@ -1,13 +1,14 @@
 <h1> AI-Powered Virtual Personal Trainer</h1>
 Welcome to the AI-Powered Virtual Personal Trainer project! This application is designed to provide real-time feedback on exercise techniques using advanced AI technologies. It tracks workout performance, counts reps, and helps users improve their exercise form with personalized corrections.
-
-Table of Contents
-Project Overview
-Technology Stack
-Installation
-Usage
-Contributing
-License
+<ul>
+  <li>Project Overview</li>
+    <li>Table of Contents</li>
+    <li>Technology Stack</li>
+    <li>Installation</li>
+  <li>Usage</li>
+  <li>Contributing</li>
+  <li>License</li>
+</ul>
 Project Overview
 The AI-Powered Virtual Personal Trainer is a comprehensive web and mobile application that combines AI with fitness tracking. The key features include:
 
@@ -17,21 +18,22 @@ Rep Counting: Automatically count the number of repetitions performed.
 Workout Tracking: Log workouts and track progress over time.
 Community Features: Share achievements and interact with other users.
 
-Technology Stack
-Frontend
+<h2>Technology Stack</h2>
+<h4>Frontend</h4>
 React.js: For building the web application interface.
 React Native: For creating the mobile application.
 HTML/CSS/JavaScript: For structuring and styling web components.
-Backend
+ <h4>Backend</h4>
 Node.js: JavaScript runtime for building scalable network applications.
 Express.js: Web application framework for handling API requests.
 MongoDB: NoSQL database for storing user and workout data.
 Socket.io: For real-time communication (optional).
-AI/ML
+<h4>AI/ML</h4>
 Mediapipe: For detecting body poses and landmarks.
 OpenCV: For image processing and analyzing exercise form.
 Python: For running the AI model and integrating with the backend.
-Installation
+
+<h2>Installation</h2>
 Prerequisites
 Node.js: Make sure Node.js is installed on your system. You can download it from nodejs.org.
 Python: Required for running the AI model. Install Python from python.org.
